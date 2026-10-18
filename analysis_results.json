@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "run_id": "20261014_122926_992419_feedback",
+    "analysis_name": "feedback",
+    "created_at": "2026-10-14T12:29:26+05:30",
+    "model": "gemini-3.5-flash-lite",
+    "total_submitted": 5,
+    "total_processed": 5,
+    "total_failed": 0
+  },
+  "analytics": {
+    "total_feedback": 5,
+    "positive": 2,
+    "negative": 2,
+    "feature_requests": 1,
+    "other": 0
+  },
+  "results": [
+    {
+      "feedback": "The app crashes every time I upload a profile photo, and I have to restart it.",
+      "summary": "The app crashes consistently when attempting to upload a profile photo, requiring a restart.",
+      "classification": "Negative",
+      "recommendation": "Investigate and fix the bug related to profile photo uploads causing application crashes.",
+      "id": 1
+    },
+    {
+      "feedback": "Customer support replied quickly and solved my billing issue. Great service!",
+      "summary": "Customer received quick and effective support for a billing issue, resulting in praise for the service.",
+      "classification": "Positive",
+      "recommendation": "Maintain the current efficient support workflow and acknowledge the team's performance.",
+      "id": 2
+    },
+    {
+      "feedback": "Please add a dark mode so the app is more comfortable to use at night.",
+      "summary": "Customer requested a dark mode feature for comfortable nighttime usage.",
+      "classification": "Feature Request",
+      "recommendation": "Prioritize the development and implementation of a dark mode UI option.",
+      "id": 3
+    },
+    {
+      "feedback": "The dashboard takes too long to load, and the login page sometimes freezes.",
+      "summary": "The customer reported that the dashboard is slow to load and the login page freezes intermittently.",
+      "classification": "Negative",
+      "recommendation": "Investigate and optimize dashboard load performance and resolve the intermittent freezing issue on the login page.",
+      "id": 4
+    },
+    {
+      "feedback": "I love the new dashboard. It is clear, attractive, and easy to navigate.",
+      "summary": "The customer loves the new dashboard, praising its clarity, attractiveness, and ease of navigation.",
+      "classification": "Positive",
+      "recommendation": "Share the positive feedback with the design and development teams to acknowledge their successful work on the new dashboard.",
+      "id": 5
+    }
+  ],
+  "failures": []
+}

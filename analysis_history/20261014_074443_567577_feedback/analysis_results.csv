@@ -1,0 +1,4 @@
+﻿id,feedback,summary,classification,recommendation
+1,The application crashes whenever I try to upload a photo.,The application crashes during photo uploads.,Negative,Investigate and fix the bug causing crashes during photo upload functionality.
+2,Your customer support team was very helpful and resolved my issue quickly.,The customer reported that the support team was very helpful and resolved their issue quickly.,Positive,Acknowledge the positive feedback and share the praise with the customer support team.
+3,It would be great to have a dark mode in the application.,The customer is asking for a dark mode option in the application.,Feature Request,Log the request for a dark mode theme in the product backlog for future UI updates.
